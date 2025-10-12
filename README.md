@@ -50,10 +50,10 @@ const ivan = {
 ## 📊 GitHub Statistics
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxicyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanvysocinas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxicyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanvysocinas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -61,21 +61,21 @@ const ivan = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Toxicyy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ivanvysocinas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
 </div>
 
 ---
 
 ## 📈 Activity Graph
 
-[![Ivan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Toxicyy&theme=tokyo-night&hide_border=true)](https://github.com/Toxicyy)
+[![Ivan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ivanvysocinas&theme=tokyo-night&hide_border=true)](https://github.com/ivanvysocinas)
 
 ---
 
 ## 📅 Contribution Calendar
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/70A5FD/Toxicyy" alt="Contribution Calendar" width="100%"/>
+  <img src="https://ghchart.rshah.org/70A5FD/ivanvysocinas" alt="Contribution Calendar" width="100%"/>
 </div>
 
 
@@ -83,7 +83,7 @@ const ivan = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://toxicyy.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ivanvysocinas.github.io/portfolio/)
 [![Telegram](https://img.shields.io/badge/Telegram-@bugzers-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bugzers)
 [![Email](https://img.shields.io/badge/Email-ivanvysocinas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanvysocinas@gmail.com)
 
@@ -94,7 +94,7 @@ const ivan = {
 <div align="center">
   
   
-![Profile Views](https://komarev.com/ghpvc/?username=Toxicyy&color=70A5FD&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ivanvysocinas&color=70A5FD&style=for-the-badge)
 
 </div>
 
