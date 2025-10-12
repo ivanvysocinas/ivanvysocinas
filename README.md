@@ -85,7 +85,7 @@ const ivan = {
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://toxicyy.github.io/portfolio/)
 [![Telegram](https://img.shields.io/badge/Telegram-@bugzers-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bugzers)
-[![Email](https://img.shields.io/badge/Email-firstpicktinker@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firstpicktinker@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ivanvysocinas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanvysocinas@gmail.com)
 
 </div>
 
