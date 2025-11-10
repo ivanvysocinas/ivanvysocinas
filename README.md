@@ -53,7 +53,7 @@ const ivan = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanvysocinas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanvysocinas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ivanvysocinas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
